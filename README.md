@@ -1,34 +1,47 @@
-<br clear="both">
+# 💻 DevOps Engineer | Python | HTML | CSS3
 
-<h2 align="center">Hi 👋! I'm Arya Thoray</h2>
+![DevOps Banner](https://via.placeholder.com/1000x200?text=DevOps+Engineer+%7C+Python+%7C+HTML+%7C+CSS3)
 
-###
+## 👋 About Me
+I am a **DevOps Engineer** with a passion for building scalable infrastructure and seamless deployment pipelines. Skilled in Python for automation, HTML, and CSS3 for frontend customizations, and various DevOps tools to bridge development and operations.
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2IyeHBudjVxc2tiMDZua2JkdW5zcTBuN3UwcHVudDFpa3BmcGJyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif"  />
+---
 
-###
+## 🚀 Skills:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-</div>
+- **Programming:** Python, Shell Scripting
+- **Frontend:** HTML5, CSS3
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, Ansible, Terraform
+- **Cloud Providers:** AWS, Azure, GCP
+- **Version Control:** Git, GitHub
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 🌐 Connect with Me:
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com)
+
+---
+
+## 📈 GitHub Stats:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## 📝 Latest Blog Posts:
+<!-- BLOG-POST-LIST:START -->
+- [DevOps Best Practices](#)
+- [Getting Started with Docker](#)
+- [Infrastructure as Code with Terraform](#)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📫 How to reach me:
+- Email: your-email@example.com
+- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+
+![Footer Image](https://via.placeholder.com/1000x100?text=Keep+Building+%7C+Keep+Learning)
